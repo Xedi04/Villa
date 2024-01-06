@@ -1,0 +1,42 @@
+{
+  "Villa": [
+    {
+      "image": "http://127.0.0.1:5500/ASSETS/IMAGES/img_1.jpg.webp",
+      "name": "Champagne",
+      "description": "FEBRUARY 26, 2018",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "description": "FEBRUARY 26, 2018",
+      "name": "Villa",
+      "image": "./ASSETS/IMAGES/img_2.jpg.webp"
+    },
+    {
+      "id": 3,
+      "description": "FEBRUARY 26, 2018",
+      "name": "Swimming pool",
+      "image": "./ASSETS/IMAGES/img_3.jpg.webp"
+    }
+  ],
+  "Favorites": [
+    {
+      "id": 2,
+      "description": "FEBRUARY 26, 2018",
+      "name": "Villa",
+      "image": "./ASSETS/IMAGES/img_2.jpg.webp"
+    },
+    {
+      "id": 3,
+      "description": "FEBRUARY 26, 2018",
+      "name": "Swimming pool",
+      "image": "./ASSETS/IMAGES/img_3.jpg.webp"
+    },
+    {
+      "image": "http://127.0.0.1:5500/ASSETS/IMAGES/img_1.jpg.webp",
+      "name": "Champagne",
+      "description": "FEBRUARY 26, 2018",
+      "id": 1
+    }
+  ]
+}
